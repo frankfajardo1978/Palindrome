@@ -3,35 +3,9 @@ Creación de un Palindromo
 
 ## PASO 1 CREACION DEL ENTORNO HTML
 ![image](https://github.com/user-attachments/assets/d306dc3a-dae1-49a4-970a-8356306e4a4e)
-```<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Palindrome Checker</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
-            background-color: #f4f4f4;
-        }
-        #container {
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px gray;
-            display: inline-block;
-        }
-        #text-input, #check-btn {
-            margin: 10px;
-            padding: 10px;
-            font-size: 16px;
-        }
-    </style>
-</head>```
 
 
-
-Aqui incluyo estas lineas:
+### Aqui incluyo estas lineas:
 
 ```<!DOCTYPE html>```  -- Lo defino como HTML5
 
