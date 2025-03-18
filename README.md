@@ -14,25 +14,17 @@ Creación de un Palindromo
 ## PASO 2 Aqui creo el cuerpo de mi pagina y voy moldeando mi entorno
 ![image](https://github.com/user-attachments/assets/695fb6ac-36a7-4628-9f88-f3f548ee0a30)
 
-### Dentro de mi bloque <head> icluyo lo siguiente:
+### Dentro de mi bloque <head> icluyo lo siguiente, tarbajado bajo CSS:
 ```<meta charset="UTF-8">```  -- el formato UTF-8 lo coloco para que me permita todo tipo de caracteres especiales
+```font-family: Arial, sans-serif;``` -- establezco el tipo de letras que quiero manejar
+```text-align: center;``` - el alineamiento del texto va al centro
+```margin: 50px;``` 
+```background-color: #1e88e5;``` establezco el color basado en los codigos de paleta, en mi caso escoji el azul ya que me gusta mucho para mi entorno
 
 
-            
-        }
-        #container {
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px gray;
-            display: inline-block;
-        }
-        #text-input, #check-btn {
-            margin: 10px;
-            padding: 10px;
-            font-size: 16px;
-        }
-    </style>
+
+       
+ 
 </head>
 <body>
     <div id="container">
