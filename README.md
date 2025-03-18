@@ -6,7 +6,7 @@ Creación de un Palindromo
 
 Aqui incluyo estas lineas:
 
-#<!DOCTYPE html> -- Lo defino como HTML5
+```<!DOCTYPE html> -- Lo defino como HTML5
 <html lang="en"> -- Selecciono como idioma base de mi pagina "ingles"
 
 Dentro de mi bloque <head> icluyo lo siguiente:
