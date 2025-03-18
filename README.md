@@ -11,8 +11,10 @@ Creación de un Palindromo
 
 ```<html lang="en">``` -- Selecciono como idioma base de mi pagina "ingles"
 
-Dentro de mi bloque <head> icluyo lo siguiente:
+## PASO 2 Aqui creo el cuerpo de mi pagina y voy moldeando mi entorno
+![image](https://github.com/user-attachments/assets/695fb6ac-36a7-4628-9f88-f3f548ee0a30)
 
+### Dentro de mi bloque <head> icluyo lo siguiente:
 ```<meta charset="UTF-8">```  -- el formato UTF-8 lo coloco para que me permita todo tipo de caracteres especiales
 
 
