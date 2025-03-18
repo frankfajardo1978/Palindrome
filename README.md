@@ -1,7 +1,9 @@
 # Palindrome
 Creación de un Palindromo
 
-## En este 
+## En este paso 
+![image](https://github.com/user-attachments/assets/d306dc3a-dae1-49a4-970a-8356306e4a4e)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
