@@ -13,9 +13,11 @@ Creación de un Palindromo
 ```<html lang="en">``` -- Selecciono como idioma base de mi pagina "ingles"
 
 ## PASO 2 Aqui creo el cuerpo de mi pagina y voy moldeando mi entorno
-![image](https://github.com/user-attachments/assets/695fb6ac-36a7-4628-9f88-f3f548ee0a30)
+![image](https://github.com/user-attachments/assets/76155527-5395-43fe-93c1-c34088f5f414)
+
 
 ### Dentro de mi bloque <head> incluyo lo siguiente, tarbajado bajo CSS:
+
 ```<meta charset="UTF-8">```  -- el formato UTF-8 lo coloco para que me permita todo tipo de caracteres especiales
 
 ```<meta name="viewport" content="width=device-width, initial-scale=1.0">``` aqui adapto la pagina para que se vea en formato de moviles
