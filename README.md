@@ -60,12 +60,11 @@ Creación de un Palindromo
 
 ### aqui se encierra dentrode otro body los siguientes codigos que van a dar forma al objeto del Palodrome checker
 
-    <div id="container">
-        <h1>Palindrome Checker</h1>
-        <input type="text" id="text-input" placeholder="Enter text">
-        <button id="check-btn">Check</button>
-        <p id="result"></p>
-    </div>
+```<h1>Palindrome Checker</h1>``` -- titulo de la pagina 
+```<input type="text" id="text-input" placeholder="Enter text">``` -- selecciono el metodo input y que solicite ingresar el texto string
+```<button id="check-btn">Check</button>``` -- boton que va a activar el reconocimiento el string
+```<p id="result"></p>``` -- parrafo que va a mostrar el resultado 
+    
 
 
 
