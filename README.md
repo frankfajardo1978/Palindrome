@@ -12,7 +12,7 @@ Creación de un Palindromo
 
 ```<html lang="en">``` -- Selecciono como idioma base de mi pagina "ingles"
 
-## PASO 2 Aqui creo el cuerpo de mi pagina y voy moldeando mi entorno
+## PASO 2 Cracion del cuerpo de la pagina y entorno
 ![image](https://github.com/user-attachments/assets/76155527-5395-43fe-93c1-c34088f5f414)
 
 
@@ -34,7 +34,7 @@ Creación de un Palindromo
 
 ```background-color: #1e88e5;``` establezco el color basado en los codigos de paleta, en mi caso escoji el azul ya que me gusta mucho para mi entorno
 
-### Creacion del cotainer
+### Creacion del container
 
 ```background: white;``` -- aqui selecciono el fondo de mi objeto en color blanco
 
@@ -54,7 +54,18 @@ Creación de un Palindromo
 
 ```font-size: 16px;```
 
+## PASO 3 Creacion del objeto de Palindromo
+![image](https://github.com/user-attachments/assets/f3214ff9-4ab5-4800-b6c0-6b835bcbcb41)
 
+
+### aqui se encierra dentrode otro body los siguientes codigos que van a dar forma al objeto del Palodrome checker
+
+    <div id="container">
+        <h1>Palindrome Checker</h1>
+        <input type="text" id="text-input" placeholder="Enter text">
+        <button id="check-btn">Check</button>
+        <p id="result"></p>
+    </div>
 
 
 
