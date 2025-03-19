@@ -58,11 +58,14 @@ Creación de un Palindromo
 ![image](https://github.com/user-attachments/assets/f3214ff9-4ab5-4800-b6c0-6b835bcbcb41)
 
 
-### aqui se encierra dentrode otro body los siguientes codigos que van a dar forma al objeto del Palodrome checker
+### aqui se encierra dentro de otro body los siguientes codigos que van a dar forma al objeto del Palodrome checker
 
 ```<h1>Palindrome Checker</h1>``` -- titulo de la pagina 
+
 ```<input type="text" id="text-input" placeholder="Enter text">``` -- selecciono el metodo input y que solicite ingresar el texto string
+
 ```<button id="check-btn">Check</button>``` -- boton que va a activar el reconocimiento el string
+
 ```<p id="result"></p>``` -- parrafo que va a mostrar el resultado 
     
 
