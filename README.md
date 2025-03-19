@@ -1,7 +1,7 @@
 # Palindrome
 Creación de un Palindromo
 
-## PASO 1 CREACION DEL ENTORNO HTML
+## PASO 1 Creacion del entorno HTML
 ![image](https://github.com/user-attachments/assets/fdcf18d0-bb7f-4ddc-9656-2f59e6c5c33e)
 
 
