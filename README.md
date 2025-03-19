@@ -1,6 +1,11 @@
 # PALINDROME
 ![image](https://github.com/user-attachments/assets/5c77c4de-afde-4e82-b0ac-d55621431d9e)
 
+Este proyecto consiste en la creacion de un chequeador de palindromos, tal como sabemos son palabras que se leen igual de reversa, comparto el codigo basdo en Java Scripts y el mismo consta de 3 estructuras:
+1- Entorno HTML
+2-CSS para la apariencia de la pagina 
+3- Codigo en Java Script
+
 Creación de un Palindromo
 
 ## PASO 1 Creacion del entorno HTML
