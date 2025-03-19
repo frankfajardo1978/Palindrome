@@ -58,7 +58,7 @@ Creación de un Palindromo
 ![image](https://github.com/user-attachments/assets/f3214ff9-4ab5-4800-b6c0-6b835bcbcb41)
 
 
-### aqui se encierra dentro de otro body los siguientes codigos que van a dar forma al objeto del Palodrome checker
+### aqui se encierra dentro de otro body los siguientes codigos que van a dar forma al objeto del Palindrome checker
 
 ```<h1>Palindrome Checker</h1>``` -- titulo de la pagina 
 
@@ -66,7 +66,14 @@ Creación de un Palindromo
 
 ```<button id="check-btn">Check</button>``` -- boton que va a activar el reconocimiento el string
 
-```<p id="result"></p>``` -- parrafo que va a mostrar el resultado 
+```<p id="result"></p>``` -- parrafo que va a mostrar el resultado
+
+
+## PASO 4 Creacion de una funcion que limpia el texto con javascript
+![image](https://github.com/user-attachments/assets/1c64f570-f8b5-4308-88a1-a58b8564ff1e)
+
+
+
     
 
 
