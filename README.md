@@ -1,5 +1,5 @@
 # PALINDROME
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5c77c4de-afde-4e82-b0ac-d55621431d9e)
 
 Creación de un Palindromo
 
