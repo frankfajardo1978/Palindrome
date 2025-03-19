@@ -18,7 +18,7 @@ Creación de un Palindromo
 ### Dentro de mi bloque <head> incluyo lo siguiente, tarbajado bajo CSS:
 ```<meta charset="UTF-8">```  -- el formato UTF-8 lo coloco para que me permita todo tipo de caracteres especiales
 
-```<meta name="viewport" content="width=device-width, initial-scale=1.0">``` aqui adapto la paginapara que se vea en formato de moviles
+```<meta name="viewport" content="width=device-width, initial-scale=1.0">``` aqui adapto la pagina para que se vea en formato de moviles
 
 ```<title>Palindrome Checker</title>``` aqui defino el título de la pestaña del navegador
 
@@ -43,6 +43,17 @@ Creación de un Palindromo
 ```box-shadow: 10px 10px 10px black;``` quiero que mi bloque resalte por tanto le coloco sombras negras y le coloco 10 pixelespara que resalten mas
 
 ```display: inline-block;```
+
+### CREACION DE text-input y check-btn // aqui defino todos los parametros visuales (margen, padding y se aumenta el tamaño del texto para una mejor apariencia)
+
+
+```margin: 10px;```
+
+```padding: 10px;```
+
+```font-size: 16px;```
+
+
 
 
 
