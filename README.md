@@ -12,7 +12,7 @@ Creación de un Palindromo
 
 ```<html lang="en">``` -- Selecciono como idioma base de mi pagina "ingles"
 
-## PASO 2 Cracion del cuerpo de la pagina y entorno
+## PASO 2 Creacion del cuerpo de la pagina y entorno
 ![image](https://github.com/user-attachments/assets/76155527-5395-43fe-93c1-c34088f5f414)
 
 
