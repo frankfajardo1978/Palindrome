@@ -70,7 +70,12 @@ Creación de un Palindromo
 
 
 ## PASO 4 Creacion de una funcion que limpia el texto con javascript
-![image](https://github.com/user-attachments/assets/1c64f570-f8b5-4308-88a1-a58b8564ff1e)
+![image](https://github.com/user-attachments/assets/1c64f570-f8b5-4308-88a1-a58b8564ff1e) 
+
+esta funcion limpia el texto ingresado eliminando caracteres especiales y trasnformandolos en minusculas
+
+
+
 
 
 
