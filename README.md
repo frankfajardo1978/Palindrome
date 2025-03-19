@@ -74,6 +74,16 @@ Creación de un Palindromo
 
 esta funcion limpia el texto ingresado eliminando caracteres especiales y trasnformandolos en minusculas
 
+## PASO 5 Creacion de una funcion para validar si el texto es un palinodromo
+
+![image](https://github.com/user-attachments/assets/fca2ade5-9111-4ecc-a9a3-d6b4aaf2597f)
+
+```cleaned.split("")``` -- aqui convertimos el texto en un array de caracteres.
+```.reverse()``` -- Inviertimos el orden del array.
+```.join("")``` -- Juntamos los caracteres en una nueva cadena.
+```return cleaned === reversed```-- Comprobamos si el texto original y el invertido son exactamente iguales.
+
+
 
 
 
@@ -85,42 +95,4 @@ esta funcion limpia el texto ingresado eliminando caracteres especiales y trasnf
 
        
  
-</head>
-<body>
-    <div id="container">
-        <h1>Palindrome Checker</h1>
-        <input type="text" id="text-input" placeholder="Enter text">
-        <button id="check-btn">Check</button>
-        <p id="result"></p>
-    </div>
 
-    <script>
-        function cleanText(text) {
-            return text.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
-        }
-
-        function palindrome(str) {
-            const cleaned = cleanText(str);
-            const reversed = cleaned.split("").reverse().join("");
-            return cleaned === reversed;
-        }
-
-        document.getElementById("check-btn").addEventListener("click", function() {
-            const inputField = document.getElementById("text-input");
-            const resultField = document.getElementById("result");
-            let text = inputField.value;
-
-            if (!text) {
-                alert("Please input a value");
-                return;
-            }
-
-            if (palindrome(text)) {
-                resultField.textContent = `${text} is a palindrome.`;
-            } else {
-                resultField.textContent = `${text} is not a palindrome.`;
-            }
-        });
-    </script>
-</body>
-</html>
