@@ -103,7 +103,7 @@ esta funcion limpia el texto ingresado eliminando caracteres especiales y transf
 ```} else { resultField.textContent = `${text} is not a palindrome.`;}``` -- Si no es un palindromo
 
 Esta ha sido mi presentacion, quedo muy agradecido por el tiempo validandola y les dejo un archivo de muestra que simula el entorno web donde podran validar el funcionamiento del palindromo
-palidromo.html
+[palidromo.html](https://github.com/frankfajardo1978/Palindrome/blob/main/palidromo.html)
 
 
 
