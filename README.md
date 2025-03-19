@@ -46,8 +46,7 @@ Creación de un Palindromo
 
 ```display: inline-block;```
 
-### CREACION DE text-input y check-btn // aqui defino todos los parametros visuales (margen, padding y se aumenta el tamaño del texto para una mejor apariencia)
-
+### Creacion de text-input y check-btn // aqui defino todos los parametros visuales (margen, padding y se aumenta el tamaño del texto para una mejor apariencia)
 
 ```margin: 10px;```
 
