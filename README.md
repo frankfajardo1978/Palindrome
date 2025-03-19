@@ -72,16 +72,41 @@ Creación de un Palindromo
 ## PASO 4 Creacion de una funcion que limpia el texto con javascript
 ![image](https://github.com/user-attachments/assets/1c64f570-f8b5-4308-88a1-a58b8564ff1e) 
 
-esta funcion limpia el texto ingresado eliminando caracteres especiales y trasnformandolos en minusculas
+esta funcion limpia el texto ingresado eliminando caracteres especiales y transformandolos en minusculas
 
 ## PASO 5 Creacion de una funcion para validar si el texto es un palinodromo
 
 ![image](https://github.com/user-attachments/assets/fca2ade5-9111-4ecc-a9a3-d6b4aaf2597f)
 
-```cleaned.split("")``` -- aqui convertimos el texto en un array de caracteres.
-```.reverse()``` -- Inviertimos el orden del array.
-```.join("")``` -- Juntamos los caracteres en una nueva cadena.
-```return cleaned === reversed```-- Comprobamos si el texto original y el invertido son exactamente iguales.
+```cleaned.split("")``` -- aqui convertimos el texto en un array de caracteres
+
+```.reverse()``` -- Inviertimos el orden del array
+
+```.join("")``` -- Juntamos los caracteres en una nueva cadena
+
+```return cleaned === reversed```-- Comprobamos si el texto original y el invertido son exactamente iguales
+
+## PASO 6 ACTIVAR EL BOTON DE CHEQUEO
+![image](https://github.com/user-attachments/assets/0913f6f1-61ba-4b3a-91f4-818ca79160fe)
+
+```document.getElementById("check-btn").addEventListener("click", function()``` se activa el boton ( se le asigna vida)
+
+```inputField.value``` --- obtenemos el valor de la variable Inputfield
+
+```if (!text) {alert("Please input a value");```
+   ```return;``` -- Podemos validar que si coloco una condicion en la cual si no hay un texto ingresado devuelve un alerta solicitandolo
+
+### Por ultimo nuestras 2 condicionales finales 
+
+```if (palindrome(text)) { resultField.textContent = `${text} is a palindrome.`;``` --- si es una palindromo 
+
+```} else { resultField.textContent = `${text} is not a palindrome.`;}``` -- Si no es un palindromo
+
+Esta ha sido mi presentacion, quedo muy agradecido por el tiempo validandola y les dejo un archivo de muestra que simula el entorno web donde podran validar el funcionameinto del palinodromo
+
+
+
+
 
 
 
