@@ -1,4 +1,4 @@
-# Palindrome
+# PALINDROME
 Creación de un Palindromo
 
 ## PASO 1 Creacion del entorno HTML
